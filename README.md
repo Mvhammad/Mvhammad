@@ -8,13 +8,14 @@ I’m an aspiring machine learning researcher focused on understanding and build
 
 ## Selected MATH Coursework
 
+- MATH 309 - Advanced Linear Algebra (Theory of Vector Spaces)
+- MATH 311 - Elementary Analysis
+- MATH 405 - Complex Analysis
+
 - MATH 451/551 - Probability
 - MATH 452/552 - Mathematical Statistics
 - MATH 455/555 - Statistical Learning
 
-- MATH 309 - Advanced Linear Algebra (Theory of Vector Spaces)
-- MATH 311 - Elementary Analysis
-- MATH 405 - Complex Analysis
 
 --
 
