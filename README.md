@@ -1,61 +1,41 @@
 # Muhammad Ali
 
-ML/AI student at William & Mary focused on statistical learning, topology-informed machine learning, geometry, probability, and mathematically grounded AI systems.
+## About Me
 
----
+I’m an aspiring machine learning researcher focused on understanding and building learning systems at both the theoretical and practical levels.
 
-## Interests
+--
 
-- Machine Learning
-- Statistical Learning
-- Topological Data Analysis
-- Neural Networks
-- Optimization
-- Probability & Statistics
-- High-Dimensional Geometry
-- Geometric ML
+## Selected MATH Coursework
 
----
+MATH 451/551 - Probability
+MATH 452/552 - Mathematical Statistics
+MATH 455/555 - Statistical Learning
 
-## Current Focus
+MATH 309 - Advanced Linear Algebra (Theory of Vector Spaces)
+MATH 311 - Elementary Analysis
+MATH 405 - Complex Analysis
 
-Currently building:
-- mathematically grounded ML projects,
-- Git/GitHub workflow skills,
-- and research-oriented computational experience.
+--
 
----
+## Selected CSCI Coursework
 
-## Selected Coursework
+CSCI 416/516 - Fundamentals of Artificial Intelligence/Machine Learning
+CSCI 420/520 - Topological Data Analysis (High-Dimensional Geometry of Data)
+CSCI 435/535 - Software Engineering
+CSCI 446/546 - Neural Networks for Machine Learning
 
-### Mathematics / Statistics
-- Probability Theory
-- Mathematical Statistics
-- Statistical Learning
-- Elementary Analysis
-- Measure Theory
-- Theory of Vector Spaces
-- Graph Theory
+--
 
-### Computer Science / ML
-- Algorithms
-- Neural Networks for Machine Learning
-- Machine Learning
-- Data Mining
-- Large Language Models
-- Topological Data Analysis
+## Future Coursework
 
----
+MATH 403 - Intermediate Analysis (Integration and Measures)
+MATH 428 - Functional Analysis
 
-## Featured Project
+CSCI 436/536 - Data Mining
+CSCI 456/556 - Large Language Models
 
-### TDA Time-Series Embeddings
-Takens embeddings, persistent homology, and geometric analysis of periodic time-series data.
+--
 
-(Work in progress)
+## Current Projects
 
----
-
-## Links
-
-- LinkedIn
