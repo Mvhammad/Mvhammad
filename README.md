@@ -4,30 +4,17 @@
 
 I’m an aspiring machine learning researcher focused on understanding and building learning systems at both the theoretical and practical levels.
 
-## Selected MATH Coursework
+## Interests
 
-- MATH 309 - Advanced Linear Algebra (Theory of Vector Spaces)
-- MATH 311 - Elementary Analysis
-- MATH 405 - Complex Analysis
+### Statistical Learning
 
-- MATH 451/551 - Probability
-- MATH 452/552 - Mathematical Statistics
-- MATH 455/555 - Statistical Learning
+Statistical learning is about understanding how models learn patterns from finite data.
 
-## Selected CSCI Coursework
+### Optimization
 
-- CSCI 416/516 - Fundamentals of Artificial Intelligence/Machine Learning
-- CSCI 420/520 - Topological Data Analysis (High-Dimensional Geometry of Data)
-- CSCI 435/535 - Software Engineering
-- CSCI 446/546 - Neural Networks for Machine Learning
+Optimization is about how models are actually trained.
 
-## Future Coursework
+### Probability/Statistics
 
-- MATH 403 - Intermediate Analysis (Integration and Measures)
-- MATH 428 - Functional Analysis
-
-- CSCI 436/536 - Data Mining
-- CSCI 456/556 - Large Language Models
-
-## Current Projects
+Probabilistic and statistical foundations are about understanding ML under uncertainty.
 
