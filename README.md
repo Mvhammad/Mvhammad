@@ -7,4 +7,4 @@ I’m an aspiring machine learning researcher focused on understanding and build
 I’m currently building a technical portfolio around Python, machine learning, neural networks, statistical learning, and research-oriented computational projects.
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ali-544477187/)
-- Portfolio website coming soon
+- https://mvhammad.github.io/
